@@ -1,8 +1,8 @@
 # NewMarkTest
 
-NewMark India Test
+# NewMark India Test
 
-#Dotnet packages to install
+# Dotnet packages to install
 
 dotnet add package Azure.Storage.Blobs
 
@@ -18,7 +18,7 @@ dotnet build
 
 dotnet run
 
-#React Command to run
+# React Command to run
 
 npm install
 
@@ -26,5 +26,5 @@ npm install axios
 
 npm start
 
-Run the dotnet application using HTTP, not HTTPS
+# Run the dotnet application using HTTP, not HTTPS
 
